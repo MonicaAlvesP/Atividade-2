@@ -1,0 +1,27 @@
+div {
+  max-width: 300px;
+  margin: auto;
+  padding: 20px;
+  border: 3px solid lavender;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: rgb(94, 47, 94);
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid lavender;
+}
+
+p {
+  color: rgb(94, 47, 94);
+  font-weight: inherit;
+}
